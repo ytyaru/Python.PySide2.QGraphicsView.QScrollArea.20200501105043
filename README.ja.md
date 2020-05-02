@@ -27,8 +27,8 @@ Linux raspberrypi 4.19.97-v7l+ #1294 SMP Thu Jan 30 13:21:14 GMT 2020 armv7l GNU
 # 使い方
 
 ```sh
-git clone https://github.com/ytyaru/Python.QGraphicsView.QScrollArea.20200501105043
-cd Python.QGraphicsView.QScrollArea.20200501105043/src
+git clone https://github.com/ytyaru/Python.PySide2.QGraphicsView.QScrollArea.20200501105043
+cd Python.PySide2.QGraphicsView.QScrollArea.20200501105043/src
 ./install.sh
 ./run.sh
 ```
